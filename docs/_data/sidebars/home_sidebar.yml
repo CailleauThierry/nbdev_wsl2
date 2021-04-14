@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
+      title: nbdev tuotrial on WSL2 and input() test
       url: core.html
     output: web
     title: nbdev_wsl2
